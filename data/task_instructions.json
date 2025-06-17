@@ -1,0 +1,1002 @@
+[
+    {
+        "field": "Education",
+        "task_name": "Lesson Plan Generation",
+        "instruction": "Create a detailed lesson plan for a high-school math class on quadratic equations, including learning objectives, instructional methods, and practice problems."
+    },
+    {
+        "field": "Education",
+        "task_name": "Essay Grading & Feedback",
+        "instruction": "Analyze a student’s essay on climate change, providing feedback on structure, clarity, and grammar while assigning a grade based on a rubric."
+    },
+    {
+        "field": "Education",
+        "task_name": "MCQ Generation",
+        "instruction": "Generate 10 multiple-choice questions with answer keys for a history chapter on World War II, ensuring questions cover key events and figures."
+    },
+    {
+        "field": "Education",
+        "task_name": "Personalized Study Guide",
+        "instruction": "Create a custom study guide for a college student preparing for a biology exam, summarizing key concepts and including practice exercises."
+    },
+    {
+        "field": "Education",
+        "task_name": "Explain Concepts Simply",
+        "instruction": "Explain Newton’s laws of motion in simple terms for a 5th-grade student, using relatable real-life examples."
+    },
+    {
+        "field": "Education",
+        "task_name": "Interactive Tutoring",
+        "instruction": "Simulate a tutor-student conversation where the AI helps a student understand the Pythagorean theorem through a step-by-step explanation."
+    },
+    {
+        "field": "Education",
+        "task_name": "Generate Writing Prompts",
+        "instruction": "Provide 5 creative writing prompts for a middle school English class, focusing on descriptive storytelling."
+    },
+    {
+        "field": "Education",
+        "task_name": "Rewrite in Different Reading Levels",
+        "instruction": "Rewrite a passage on the water cycle at three different reading levels: elementary, middle school, and high school."
+    },
+    {
+        "field": "Education",
+        "task_name": "AI-Generated Debate Preparation",
+        "instruction": "Create a set of arguments for and against renewable energy for a high-school debate team."
+    },
+    {
+        "field": "Education",
+        "task_name": "Educational Video Script",
+        "instruction": "Write a 5-minute script for a YouTube educational video explaining black holes in an engaging and accessible way."
+    },
+    {
+        "field": "Finance",
+        "task_name": "Quarterly Report Summary",
+        "instruction": "Summarize a quarterly financial report of a company, highlighting key financial indicators like revenue, profit, and cash flow in under 300 words."
+    },
+    {
+        "field": "Finance",
+        "task_name": "Investment Risk Analysis",
+        "instruction": "Analyze the risks associated with investing in a specific stock, considering market trends, company performance, and economic conditions."
+    },
+    {
+        "field": "Finance",
+        "task_name": "Market Sentiment Analysis",
+        "instruction": "Interpret recent financial news articles to assess public sentiment towards a specific industry or company."
+    },
+    {
+        "field": "Finance",
+        "task_name": "Fraud Detection Explanation",
+        "instruction": "Explain how AI models detect fraudulent financial transactions and provide examples of common fraud patterns."
+    },
+    {
+        "field": "Finance",
+        "task_name": "Personalized Financial Advice",
+        "instruction": "Given a user’s financial goals and income details, suggest a diversified investment portfolio with risk assessment."
+    },
+    {
+        "field": "Finance",
+        "task_name": "Loan Approval Assessment",
+        "instruction": "Simulate a credit risk assessment by evaluating a borrower’s profile and determining their loan eligibility."
+    },
+    {
+        "field": "Finance",
+        "task_name": "Budgeting Strategy",
+        "instruction": "Create a monthly budgeting plan for a young professional earning $5,000 per month, prioritizing savings and essential expenses."
+    },
+    {
+        "field": "Finance",
+        "task_name": "Tax Optimization Guide",
+        "instruction": "Provide tax-saving strategies for a small business owner based on current tax laws."
+    },
+    {
+        "field": "Finance",
+        "task_name": "Cryptocurrency Trend Report",
+        "instruction": "Analyze historical trends of Bitcoin’s price over the last 5 years and predict potential future movements based on current market conditions."
+    },
+    {
+        "field": "Finance",
+        "task_name": "Financial Glossary Generation",
+        "instruction": "Generate a beginner-friendly glossary of 20 common financial terms with easy-to-understand explanations."
+    },
+    {
+        "field": "Healthcare",
+        "task_name": "Patient Report Summarization",
+        "instruction": "Summarize a complex medical report for a non-medical audience while preserving critical information."
+    },
+    {
+        "field": "Healthcare",
+        "task_name": "Symptom-Based Diagnosis Suggestion",
+        "instruction": "Given a list of symptoms, suggest possible medical conditions and recommend seeking professional medical advice."
+    },
+    {
+        "field": "Healthcare",
+        "task_name": "Medication Side Effects Explanation",
+        "instruction": "Explain the side effects of a prescribed medication in layman’s terms."
+    },
+    {
+        "field": "Healthcare",
+        "task_name": "Medical Research Paper Summary",
+        "instruction": "Summarize a recent medical research paper on Alzheimer’s disease in 250 words."
+    },
+    {
+        "field": "Healthcare",
+        "task_name": "AI-Powered Health Chatbot Simulation",
+        "instruction": "Simulate a conversation where an AI chatbot provides first-aid advice for minor injuries."
+    },
+    {
+        "field": "Healthcare",
+        "task_name": "Hospital Discharge Instructions",
+        "instruction": "Rewrite a set of discharge instructions for a patient recovering from knee surgery in a clear and accessible format."
+    },
+    {
+        "field": "Healthcare",
+        "task_name": "Generate a Nutrition Plan",
+        "instruction": "Create a 7-day meal plan for a diabetic patient with calorie counts and nutritional breakdowns."
+    },
+    {
+        "field": "Healthcare",
+        "task_name": "Health Policy Summary",
+        "instruction": "Summarize new government healthcare policies affecting insurance coverage."
+    },
+    {
+        "field": "Healthcare",
+        "task_name": "Surgical Procedure Explanation",
+        "instruction": "Explain a complex surgical procedure like coronary artery bypass surgery in simple terms for a patient."
+    },
+    {
+        "field": "Healthcare",
+        "task_name": "Clinical Trial Report Analysis",
+        "instruction": "Analyze the results of a recent clinical trial and explain the findings for a general audience."
+    },
+    {
+        "field": "Legal",
+        "task_name": "Contract Review",
+        "instruction": "Review a business contract and summarize the key terms, potential risks, and suggestions for amendments."
+    },
+    {
+        "field": "Legal",
+        "task_name": "Legal Research",
+        "instruction": "Conduct research on intellectual property laws in the EU, focusing on patent infringement cases."
+    },
+    {
+        "field": "Legal",
+        "task_name": "Court Case Summary",
+        "instruction": "Summarize a recent landmark court case involving environmental regulations, highlighting the ruling and its implications."
+    },
+    {
+        "field": "Legal",
+        "task_name": "Terms & Conditions Drafting",
+        "instruction": "Draft a privacy policy and terms of service for an e-commerce website, ensuring legal compliance."
+    },
+    {
+        "field": "Legal",
+        "task_name": "Legal Advice Simulation",
+        "instruction": "Simulate an interaction where a client asks for advice on filing a lawsuit for breach of contract."
+    },
+    {
+        "field": "Legal",
+        "task_name": "Litigation Risk Assessment",
+        "instruction": "Assess the litigation risks for a company involved in a product liability case and suggest possible defenses."
+    },
+    {
+        "field": "Legal",
+        "task_name": "Legal Document Translation",
+        "instruction": "Translate a legal document from French to English while maintaining legal terminology accuracy."
+    },
+    {
+        "field": "Legal",
+        "task_name": "Legal Writing Style Guide",
+        "instruction": "Provide a style guide for writing legal documents that adheres to formal legal standards."
+    },
+    {
+        "field": "Legal",
+        "task_name": "Intellectual Property Rights Explanation",
+        "instruction": "Explain the basics of intellectual property rights for a new startup founder in simple terms."
+    },
+    {
+        "field": "Legal",
+        "task_name": "Compliance Checklist",
+        "instruction": "Create a compliance checklist for a company entering the healthcare industry, ensuring all regulatory requirements are met."
+    },
+    {
+        "field": "Marketing",
+        "task_name": "Ad Copy Generation",
+        "instruction": "Generate 5 different ad copies for a new smartwatch, highlighting its unique features and target audience."
+    },
+    {
+        "field": "Marketing",
+        "task_name": "Market Research Summary",
+        "instruction": "Summarize the findings of a recent market research report on consumer behavior in the fashion industry."
+    },
+    {
+        "field": "Marketing",
+        "task_name": "Brand Positioning Strategy",
+        "instruction": "Develop a brand positioning strategy for a startup offering eco-friendly cleaning products."
+    },
+    {
+        "field": "Marketing",
+        "task_name": "Customer Persona Creation",
+        "instruction": "Create 3 distinct customer personas for an online bookstore, each representing different target demographics."
+    },
+    {
+        "field": "Marketing",
+        "task_name": "SEO Keyword Suggestions",
+        "instruction": "Generate a list of SEO keywords for a website selling organic skincare products, with search volume estimates."
+    },
+    {
+        "field": "Marketing",
+        "task_name": "Email Campaign Copywriting",
+        "instruction": "Write the copy for a 7-day email marketing campaign to promote a new online course."
+    },
+    {
+        "field": "Marketing",
+        "task_name": "Social Media Content Plan",
+        "instruction": "Develop a content calendar for a social media marketing campaign promoting a new tech product."
+    },
+    {
+        "field": "Marketing",
+        "task_name": "Influencer Partnership Strategy",
+        "instruction": "Suggest a strategy for collaborating with influencers to promote a new fitness app targeting millennials."
+    },
+    {
+        "field": "Marketing",
+        "task_name": "Product Naming Idea Generation",
+        "instruction": "Generate 10 catchy product name ideas for a new line of vegan protein bars."
+    },
+    {
+        "field": "Marketing",
+        "task_name": "Customer Feedback Analysis",
+        "instruction": "Analyze customer reviews of a service and provide insights into common pain points and suggestions for improvement."
+    },
+    {
+        "field": "E-commerce",
+        "task_name": "Product Description Writing",
+        "instruction": "Write compelling product descriptions for a new line of kitchen appliances, highlighting key features and benefits."
+    },
+    {
+        "field": "E-commerce",
+        "task_name": "Pricing Strategy Analysis",
+        "instruction": "Analyze competitor pricing strategies for a fashion e-commerce website and suggest a competitive pricing model."
+    },
+    {
+        "field": "E-commerce",
+        "task_name": "Customer Support Automation",
+        "instruction": "Develop an AI chatbot script to handle common customer inquiries about order status and product returns."
+    },
+    {
+        "field": "E-commerce",
+        "task_name": "Sales Forecasting",
+        "instruction": "Create a sales forecast for the next quarter based on historical data and seasonal trends."
+    },
+    {
+        "field": "E-commerce",
+        "task_name": "Product Recommendation System",
+        "instruction": "Develop a personalized recommendation system for an online bookstore based on user preferences and browsing history."
+    },
+    {
+        "field": "E-commerce",
+        "task_name": "Order Management System Workflow",
+        "instruction": "Design a workflow for processing and managing customer orders in an e-commerce system."
+    },
+    {
+        "field": "E-commerce",
+        "task_name": "User Review Summarization",
+        "instruction": "Summarize user reviews for a new smartphone, highlighting common positives and concerns."
+    },
+    {
+        "field": "E-commerce",
+        "task_name": "Upselling & Cross-selling Strategy",
+        "instruction": "Create an upselling and cross-selling strategy for an online electronics store."
+    },
+    {
+        "field": "E-commerce",
+        "task_name": "Market Expansion Plan",
+        "instruction": "Develop a market expansion plan for a company looking to enter the European market."
+    },
+    {
+        "field": "E-commerce",
+        "task_name": "Shipping & Delivery Optimization",
+        "instruction": "Suggest an optimized shipping and delivery process to reduce costs and improve customer satisfaction."
+    },
+    {
+        "field": "Customer Service",
+        "task_name": "Customer Inquiry Response",
+        "instruction": "Write a polite and informative response to a customer asking about product return policies."
+    },
+    {
+        "field": "Customer Service",
+        "task_name": "Complaint Handling Simulation",
+        "instruction": "Simulate a customer service conversation handling a complaint about a delayed shipment."
+    },
+    {
+        "field": "Customer Service",
+        "task_name": "Support Ticket Prioritization",
+        "instruction": "Categorize and prioritize support tickets based on urgency, such as technical issues vs. billing inquiries."
+    },
+    {
+        "field": "Customer Service",
+        "task_name": "FAQ Generation",
+        "instruction": "Generate an FAQ page for a company’s website, answering common customer queries about their services."
+    },
+    {
+        "field": "Customer Service",
+        "task_name": "Service Improvement Suggestion",
+        "instruction": "Analyze customer feedback and suggest actionable improvements to enhance customer satisfaction."
+    },
+    {
+        "field": "Customer Service",
+        "task_name": "Proactive Customer Outreach",
+        "instruction": "Draft an email to inform customers about a new product feature or upcoming sale."
+    },
+    {
+        "field": "Customer Service",
+        "task_name": "User Manual Writing",
+        "instruction": "Write a clear and concise user manual for a new home appliance."
+    },
+    {
+        "field": "Customer Service",
+        "task_name": "Customer Survey Analysis",
+        "instruction": "Analyze customer survey results and provide a report with actionable insights for service improvement."
+    },
+    {
+        "field": "Customer Service",
+        "task_name": "Chatbot Script Design",
+        "instruction": "Design a chatbot script to handle billing inquiries for a telecommunications company."
+    },
+    {
+        "field": "Customer Service",
+        "task_name": "Conflict Resolution Simulation",
+        "instruction": "Simulate a conversation where a customer service agent resolves a conflict over a defective product."
+    },
+    {
+        "field": "Software Development",
+        "task_name": "Code Debugging Assistance",
+        "instruction": "Identify and fix the bugs in a Python script that calculates Fibonacci numbers."
+    },
+    {
+        "field": "Software Development",
+        "task_name": "Code Review",
+        "instruction": "Review a JavaScript function for generating a random password and suggest improvements for security."
+    },
+    {
+        "field": "Software Development",
+        "task_name": "Algorithm Design",
+        "instruction": "Design an algorithm to efficiently sort a large list of user data based on multiple criteria (name, age, location)."
+    },
+    {
+        "field": "Software Development",
+        "task_name": "API Documentation Generation",
+        "instruction": "Generate API documentation for an authentication system, including examples of how to use the login and logout endpoints."
+    },
+    {
+        "field": "Software Development",
+        "task_name": "Unit Test Creation",
+        "instruction": "Write unit tests in Python for a function that calculates the area of different geometric shapes."
+    },
+    {
+        "field": "Software Development",
+        "task_name": "Performance Optimization",
+        "instruction": "Suggest improvements to optimize the performance of a database query retrieving customer data."
+    },
+    {
+        "field": "Software Development",
+        "task_name": "Feature Request Analysis",
+        "instruction": "Analyze a list of customer feature requests and prioritize them based on user impact and technical feasibility."
+    },
+    {
+        "field": "Software Development",
+        "task_name": "Code Refactoring",
+        "instruction": "Refactor a monolithic block of code into smaller, reusable functions for improved maintainability."
+    },
+    {
+        "field": "Software Development",
+        "task_name": "Documentation Writing",
+        "instruction": "Write clear and concise documentation for a new software library, explaining its features, installation, and usage."
+    },
+    {
+        "field": "Software Development",
+        "task_name": "Debugging Error Messages",
+        "instruction": "Help interpret and resolve error messages in a C++ program that interacts with an external database."
+    },
+    {
+        "field": "Human Resources",
+        "task_name": "Resume Screening",
+        "instruction": "Review a candidate's resume and provide a score based on their qualifications, experience, and skills."
+    },
+    {
+        "field": "Human Resources",
+        "task_name": "Interview Question Generation",
+        "instruction": "Generate a list of behavioral interview questions for a sales manager position, focusing on leadership and team-building abilities."
+    },
+    {
+        "field": "Human Resources",
+        "task_name": "Employee Onboarding Guide",
+        "instruction": "Create an onboarding guide for new employees joining a tech company, covering company policies and initial tasks."
+    },
+    {
+        "field": "Human Resources",
+        "task_name": "Performance Review Writing",
+        "instruction": "Write a performance review for an employee based on their job performance over the past six months, highlighting strengths and areas for improvement."
+    },
+    {
+        "field": "Human Resources",
+        "task_name": "Employee Training Program",
+        "instruction": "Design a training program to help employees improve their communication and time-management skills."
+    },
+    {
+        "field": "Human Resources",
+        "task_name": "Compensation Benchmarking",
+        "instruction": "Analyze market compensation data and suggest salary adjustments for a specific role to remain competitive."
+    },
+    {
+        "field": "Human Resources",
+        "task_name": "Diversity & Inclusion Strategy",
+        "instruction": "Develop a diversity and inclusion strategy for a large organization, including goals, initiatives, and metrics."
+    },
+    {
+        "field": "Human Resources",
+        "task_name": "Employee Engagement Survey",
+        "instruction": "Design an employee engagement survey to assess job satisfaction and identify areas for workplace improvement."
+    },
+    {
+        "field": "Human Resources",
+        "task_name": "Conflict Resolution Plan",
+        "instruction": "Suggest strategies to resolve conflicts between team members in a remote work environment."
+    },
+    {
+        "field": "Human Resources",
+        "task_name": "Exit Interview Analysis",
+        "instruction": "Analyze feedback from exit interviews and provide insights on potential improvements to employee retention."
+    },
+    {
+        "field": "Journalism & Media",
+        "task_name": "News Article Summarization",
+        "instruction": "Summarize a news article on global warming, highlighting key points and statistics in 150 words."
+    },
+    {
+        "field": "Journalism & Media",
+        "task_name": "Headline Creation",
+        "instruction": "Generate 5 catchy headlines for a breaking news story about a new technological breakthrough."
+    },
+    {
+        "field": "Journalism & Media",
+        "task_name": "Research for Investigative Journalism",
+        "instruction": "Conduct research on a controversial political topic and generate key facts and sources."
+    },
+    {
+        "field": "Journalism & Media",
+        "task_name": "Social Media Post Writing",
+        "instruction": "Write a short social media post for Twitter to promote a new environmental documentary."
+    },
+    {
+        "field": "Journalism & Media",
+        "task_name": "Interview Transcript Summarization",
+        "instruction": "Summarize the key points of a transcript from an interview with a celebrity, focusing on new revelations."
+    },
+    {
+        "field": "Journalism & Media",
+        "task_name": "Fact-Checking",
+        "instruction": "Fact-check a statement made in an opinion piece about economic policy and provide references to credible sources."
+    },
+    {
+        "field": "Journalism & Media",
+        "task_name": "Press Release Drafting",
+        "instruction": "Write a press release announcing a new partnership between two major companies in the entertainment industry."
+    },
+    {
+        "field": "Journalism & Media",
+        "task_name": "Feature Story Generation",
+        "instruction": "Generate a feature story about the rise of renewable energy, including interviews, data, and historical context."
+    },
+    {
+        "field": "Journalism & Media",
+        "task_name": "Content Ideation for Blog",
+        "instruction": "Suggest 10 potential blog topics for a tech company focusing on cybersecurity trends."
+    },
+    {
+        "field": "Journalism & Media",
+        "task_name": "Investigative Report Writing",
+        "instruction": "Write an investigative report on corporate tax avoidance, using publicly available financial data and expert opinions."
+    },
+    {
+        "field": "Gaming",
+        "task_name": "NPC Dialogue Creation",
+        "instruction": "Write a set of dialogues for non-playable characters (NPCs) in a fantasy RPG, ensuring they add to the storyline and world-building."
+    },
+    {
+        "field": "Gaming",
+        "task_name": "Storyline Plot Development",
+        "instruction": "Develop a plot outline for a sci-fi video game, with multiple story branches and character arcs."
+    },
+    {
+        "field": "Gaming",
+        "task_name": "Character Backstory Writing",
+        "instruction": "Create detailed backstories for a protagonist and antagonist in an action-adventure game."
+    },
+    {
+        "field": "Gaming",
+        "task_name": "Quest Design",
+        "instruction": "Design a side quest for an open-world game, including objectives, rewards, and branching narrative choices."
+    },
+    {
+        "field": "Gaming",
+        "task_name": "Level Design Concept",
+        "instruction": "Write a detailed concept for a new level in a platformer game, describing the environment, challenges, and enemies."
+    },
+    {
+        "field": "Gaming",
+        "task_name": "Game Mechanics Explanation",
+        "instruction": "Explain the core mechanics of a turn-based strategy game, including how players interact with the environment and enemies."
+    },
+    {
+        "field": "Gaming",
+        "task_name": "Voice Acting Script",
+        "instruction": "Write a script for voice actors in a horror game, ensuring the dialogue matches the tense atmosphere."
+    },
+    {
+        "field": "Gaming",
+        "task_name": "Game UI/UX Design Feedback",
+        "instruction": "Analyze the user interface of a mobile puzzle game and suggest improvements for ease of navigation."
+    },
+    {
+        "field": "Gaming",
+        "task_name": "Bug Reporting",
+        "instruction": "Create a detailed bug report for a game feature that causes crashes under certain conditions, including steps to reproduce."
+    },
+    {
+        "field": "Gaming",
+        "task_name": "Monetization Strategy",
+        "instruction": "Suggest a monetization strategy for a free-to-play mobile game, considering in-app purchases and ad placement."
+    },
+    {
+        "field": "Science & Research",
+        "task_name": "Research Paper Summary",
+        "instruction": "Summarize a scientific paper on gene editing, focusing on methodology, results, and implications for future research."
+    },
+    {
+        "field": "Science & Research",
+        "task_name": "Data Interpretation",
+        "instruction": "Interpret the results of an experiment on plant growth under different light conditions, providing a detailed analysis."
+    },
+    {
+        "field": "Science & Research",
+        "task_name": "Literature Review Generation",
+        "instruction": "Generate a literature review on climate change and its effects on biodiversity, citing recent studies and their findings."
+    },
+    {
+        "field": "Science & Research",
+        "task_name": "Experimental Design Suggestions",
+        "instruction": "Design an experiment to test the effectiveness of a new drug in treating high blood pressure."
+    },
+    {
+        "field": "Science & Research",
+        "task_name": "Research Hypothesis Development",
+        "instruction": "Develop a research hypothesis related to the impact of social media on mental health, outlining the rationale and key variables."
+    },
+    {
+        "field": "Science & Research",
+        "task_name": "Data Set Cleaning",
+        "instruction": "Identify and clean inconsistencies in a raw dataset related to sales data from an e-commerce website."
+    },
+    {
+        "field": "Science & Research",
+        "task_name": "Research Grant Proposal",
+        "instruction": "Write a proposal for a research grant to study the effects of urbanization on local wildlife populations."
+    },
+    {
+        "field": "Science & Research",
+        "task_name": "Statistical Analysis Report",
+        "instruction": "Analyze a dataset using statistical methods (e.g., regression analysis) and present the findings in a clear, concise report."
+    },
+    {
+        "field": "Science & Research",
+        "task_name": "Survey Design",
+        "instruction": "Design a survey to assess public opinion on renewable energy adoption, ensuring questions are unbiased and clear."
+    },
+    {
+        "field": "Science & Research",
+        "task_name": "Scientific Presentation Creation",
+        "instruction": "Create a PowerPoint presentation summarizing key findings from a recent study on renewable energy technologies."
+    },
+    {
+        "field": "Cybersecurity",
+        "task_name": "Threat Detection Explanation",
+        "instruction": "Explain how AI-powered cybersecurity tools detect phishing attempts in email communications."
+    },
+    {
+        "field": "Cybersecurity",
+        "task_name": "Security Audit Report",
+        "instruction": "Write a security audit report for a company’s website, identifying potential vulnerabilities and suggesting mitigations."
+    },
+    {
+        "field": "Cybersecurity",
+        "task_name": "Incident Response Plan",
+        "instruction": "Develop a comprehensive incident response plan for a company following a data breach."
+    },
+    {
+        "field": "Cybersecurity",
+        "task_name": "Encryption Techniques Explanation",
+        "instruction": "Explain how AES encryption works and why it's effective for protecting sensitive data."
+    },
+    {
+        "field": "Cybersecurity",
+        "task_name": "Firewall Configuration Guide",
+        "instruction": "Provide a step-by-step guide for configuring a firewall to block malicious traffic on a corporate network."
+    },
+    {
+        "field": "Cybersecurity",
+        "task_name": "Penetration Testing Plan",
+        "instruction": "Create a penetration testing plan for a web application, outlining key areas of focus and methodologies."
+    },
+    {
+        "field": "Cybersecurity",
+        "task_name": "Risk Assessment Report",
+        "instruction": "Conduct a risk assessment for a company’s IT infrastructure and provide recommendations for securing sensitive data."
+    },
+    {
+        "field": "Cybersecurity",
+        "task_name": "Malware Analysis",
+        "instruction": "Analyze a sample of malware code and describe its behavior, methods of infection, and potential impacts."
+    },
+    {
+        "field": "Cybersecurity",
+        "task_name": "Security Best Practices Guide",
+        "instruction": "Write a guide for employees on best practices for maintaining cybersecurity hygiene in the workplace."
+    },
+    {
+        "field": "Cybersecurity",
+        "task_name": "Two-Factor Authentication Setup",
+        "instruction": "Provide instructions for setting up two-factor authentication on a popular social media platform."
+    },
+    {
+        "field": "Logistics & Supply Chain",
+        "task_name": "Route Optimization",
+        "instruction": "Design an optimized delivery route for a logistics company to minimize fuel costs and time for shipments to multiple locations."
+    },
+    {
+        "field": "Logistics & Supply Chain",
+        "task_name": "Inventory Management Strategy",
+        "instruction": "Suggest a strategy for managing inventory in a retail warehouse, including reorder levels and stock rotation."
+    },
+    {
+        "field": "Logistics & Supply Chain",
+        "task_name": "Supply Chain Risk Assessment",
+        "instruction": "Conduct a risk assessment of a supply chain that relies on overseas suppliers, identifying potential disruptions and contingency plans."
+    },
+    {
+        "field": "Logistics & Supply Chain",
+        "task_name": "Shipment Tracking System Design",
+        "instruction": "Design a system for tracking shipments in real-time, including user interface and data flow."
+    },
+    {
+        "field": "Logistics & Supply Chain",
+        "task_name": "Logistics Cost Analysis",
+        "instruction": "Analyze the costs involved in transporting goods from one warehouse to a distribution center, highlighting areas for cost reduction."
+    },
+    {
+        "field": "Logistics & Supply Chain",
+        "task_name": "Warehouse Layout Optimization",
+        "instruction": "Provide recommendations on optimizing the layout of a warehouse for improved order picking efficiency and safety."
+    },
+    {
+        "field": "Logistics & Supply Chain",
+        "task_name": "Demand Forecasting Model",
+        "instruction": "Develop a demand forecasting model for a seasonal product, using historical sales data and market trends."
+    },
+    {
+        "field": "Logistics & Supply Chain",
+        "task_name": "Supplier Evaluation",
+        "instruction": "Create a set of criteria for evaluating and selecting suppliers based on quality, cost, and delivery performance."
+    },
+    {
+        "field": "Logistics & Supply Chain",
+        "task_name": "Packaging Design Recommendations",
+        "instruction": "Suggest improvements for packaging to reduce shipping costs and improve sustainability."
+    },
+    {
+        "field": "Logistics & Supply Chain",
+        "task_name": "Global Supply Chain Analysis",
+        "instruction": "Analyze the global supply chain for an electronic device, identifying key challenges and risks from raw material sourcing to distribution."
+    },
+    {
+        "field": "Real Estate",
+        "task_name": "Property Listing Description",
+        "instruction": "Write a compelling description for a luxury apartment, highlighting key features such as location, amenities, and view."
+    },
+    {
+        "field": "Real Estate",
+        "task_name": "Market Trend Analysis",
+        "instruction": "Analyze the local real estate market trends in a metropolitan area, providing insights on property price increases, demand, and investor interest."
+    },
+    {
+        "field": "Real Estate",
+        "task_name": "Property Valuation Report",
+        "instruction": "Provide a detailed valuation report for a commercial property based on location, amenities, and recent sales in the area."
+    },
+    {
+        "field": "Real Estate",
+        "task_name": "Real Estate Investment Advice",
+        "instruction": "Suggest investment strategies for a beginner investor interested in rental properties, considering current market conditions."
+    },
+    {
+        "field": "Real Estate",
+        "task_name": "Lease Agreement Review",
+        "instruction": "Review a lease agreement for a commercial property and identify potential risks or clauses that need clarification."
+    },
+    {
+        "field": "Real Estate",
+        "task_name": "Home Staging Tips",
+        "instruction": "Provide home staging tips for a homeowner preparing to sell, with suggestions for enhancing the property's appeal."
+    },
+    {
+        "field": "Real Estate",
+        "task_name": "Neighborhood Comparison",
+        "instruction": "Compare two neighborhoods in a city based on factors like average rent prices, crime rates, schools, and local amenities."
+    },
+    {
+        "field": "Real Estate",
+        "task_name": "Real Estate Marketing Plan",
+        "instruction": "Develop a marketing plan for promoting a new real estate development project, including strategies for both online and offline marketing."
+    },
+    {
+        "field": "Real Estate",
+        "task_name": "Tenant Screening Process",
+        "instruction": "Develop a tenant screening checklist for a landlord to evaluate potential renters based on credit history, rental history, and references."
+    },
+    {
+        "field": "Real Estate",
+        "task_name": "Real Estate Taxation Explanation",
+        "instruction": "Explain the key tax implications of purchasing a second home or investment property, including property taxes and potential deductions."
+    },
+    {
+        "field": "Manufacturing",
+        "task_name": "Production Line Efficiency",
+        "instruction": "Analyze the efficiency of a production line and recommend improvements to reduce bottlenecks and increase throughput."
+    },
+    {
+        "field": "Manufacturing",
+        "task_name": "Quality Control Checklist",
+        "instruction": "Create a quality control checklist for a manufacturing process that produces electronic components, ensuring product consistency."
+    },
+    {
+        "field": "Manufacturing",
+        "task_name": "Supply Chain Monitoring System",
+        "instruction": "Design a system to monitor the health of a manufacturing supply chain, focusing on lead times, supplier performance, and inventory levels."
+    },
+    {
+        "field": "Manufacturing",
+        "task_name": "Lean Manufacturing Implementation",
+        "instruction": "Suggest ways to implement lean manufacturing principles in a factory to reduce waste and improve efficiency."
+    },
+    {
+        "field": "Manufacturing",
+        "task_name": "Predictive Maintenance Plan",
+        "instruction": "Develop a predictive maintenance plan for machinery in a factory, using IoT sensors to monitor equipment performance and prevent downtime."
+    },
+    {
+        "field": "Manufacturing",
+        "task_name": "Workplace Safety Guidelines",
+        "instruction": "Write a set of workplace safety guidelines for employees in a manufacturing plant, covering equipment usage, PPE, and emergency protocols."
+    },
+    {
+        "field": "Manufacturing",
+        "task_name": "Production Scheduling Optimization",
+        "instruction": "Design an optimized production schedule for a factory to balance demand, machine availability, and labor force constraints."
+    },
+    {
+        "field": "Manufacturing",
+        "task_name": "Environmental Sustainability Strategy",
+        "instruction": "Suggest sustainable practices for a manufacturing company to reduce its carbon footprint, such as using renewable energy and recycling waste materials."
+    },
+    {
+        "field": "Manufacturing",
+        "task_name": "Supplier Performance Evaluation",
+        "instruction": "Develop criteria and methods for evaluating the performance of suppliers in terms of product quality, delivery time, and cost."
+    },
+    {
+        "field": "Manufacturing",
+        "task_name": "Product Design for Manufacturability",
+        "instruction": "Provide suggestions on designing a new product that is easier and more cost-effective to manufacture at scale."
+    },
+    {
+        "field": "Hospitality & Tourism",
+        "task_name": "Hotel Marketing Strategy",
+        "instruction": "Create a marketing strategy for a boutique hotel to attract high-end tourists, focusing on unique experiences and local culture."
+    },
+    {
+        "field": "Hospitality & Tourism",
+        "task_name": "Customer Feedback Analysis",
+        "instruction": "Analyze customer feedback for a chain of restaurants and provide insights for improving service quality and customer satisfaction."
+    },
+    {
+        "field": "Hospitality & Tourism",
+        "task_name": "Tourism Guide Creation",
+        "instruction": "Write a detailed tourism guide for a city, highlighting the best attractions, dining options, and local events."
+    },
+    {
+        "field": "Hospitality & Tourism",
+        "task_name": "Event Planning",
+        "instruction": "Plan a corporate event for 100 attendees at a luxury resort, including venue selection, catering, and entertainment."
+    },
+    {
+        "field": "Hospitality & Tourism",
+        "task_name": "Hotel Booking System Design",
+        "instruction": "Design a hotel booking system interface, including search filters, booking options, and user review integration."
+    },
+    {
+        "field": "Hospitality & Tourism",
+        "task_name": "Hospitality Employee Training Program",
+        "instruction": "Develop a training program for hotel staff on customer service, conflict resolution, and upselling techniques."
+    },
+    {
+        "field": "Hospitality & Tourism",
+        "task_name": "Travel Itinerary Creation",
+        "instruction": "Create a customized 7-day itinerary for a couple visiting Paris, including sightseeing, dining, and transportation options."
+    },
+    {
+        "field": "Hospitality & Tourism",
+        "task_name": "Customer Loyalty Program Design",
+        "instruction": "Design a customer loyalty program for a hotel chain, with rewards based on frequent stays and special promotions."
+    },
+    {
+        "field": "Hospitality & Tourism",
+        "task_name": "Tour Package Development",
+        "instruction": "Create a tour package for a historical city, including guided tours, transportation, and accommodations."
+    },
+    {
+        "field": "Hospitality & Tourism",
+        "task_name": "Crisis Management Plan",
+        "instruction": "Develop a crisis management plan for a hotel in the event of a natural disaster or public health emergency."
+    },
+    {
+        "field": "Retail",
+        "task_name": "Product Launch Plan",
+        "instruction": "Develop a launch plan for a new product in a retail store, including marketing materials, pricing strategy, and distribution channels."
+    },
+    {
+        "field": "Retail",
+        "task_name": "Customer Loyalty Program",
+        "instruction": "Design a customer loyalty program for an online clothing store, with discounts, exclusive offers, and membership tiers."
+    },
+    {
+        "field": "Retail",
+        "task_name": "Inventory Replenishment Strategy",
+        "instruction": "Develop an inventory replenishment strategy for a retail chain, ensuring optimal stock levels without overstocking."
+    },
+    {
+        "field": "Retail",
+        "task_name": "Sales Performance Analysis",
+        "instruction": "Analyze sales data from the past quarter to identify top-performing products, seasonal trends, and opportunities for growth."
+    },
+    {
+        "field": "Retail",
+        "task_name": "Retail Store Layout Optimization",
+        "instruction": "Suggest improvements to the layout of a retail store to increase foot traffic and enhance the shopping experience."
+    },
+    {
+        "field": "Retail",
+        "task_name": "Product Recommendation Engine",
+        "instruction": "Build a product recommendation engine for an e-commerce platform based on browsing behavior and past purchases."
+    },
+    {
+        "field": "Retail",
+        "task_name": "Customer Service Training",
+        "instruction": "Create a training program for retail employees focusing on customer service skills, including handling returns, complaints, and upselling."
+    },
+    {
+        "field": "Retail",
+        "task_name": "Competitive Analysis",
+        "instruction": "Conduct a competitive analysis of a retail company in comparison to its top competitors, identifying strengths and weaknesses."
+    },
+    {
+        "field": "Retail",
+        "task_name": "Seasonal Marketing Campaign",
+        "instruction": "Develop a seasonal marketing campaign for a department store, including advertising strategies, promotions, and product displays."
+    },
+    {
+        "field": "Retail",
+        "task_name": "Market Expansion Strategy",
+        "instruction": "Propose a market expansion strategy for a retail chain looking to enter an international market, considering localization and cultural differences."
+    },
+    {
+        "field": "Automotive",
+        "task_name": "Car Maintenance Checklist",
+        "instruction": "Create a maintenance checklist for a car owner, including essential tasks and maintenance schedules for different car models."
+    },
+    {
+        "field": "Automotive",
+        "task_name": "Vehicle Feature Comparison",
+        "instruction": "Compare the features of two electric vehicles, highlighting key differences in battery range, technology, and safety features."
+    },
+    {
+        "field": "Automotive",
+        "task_name": "Customer Feedback Analysis",
+        "instruction": "Analyze customer reviews of a new car model, summarizing common praise and complaints."
+    },
+    {
+        "field": "Automotive",
+        "task_name": "Vehicle Marketing Campaign",
+        "instruction": "Develop a marketing campaign for a new luxury car model, including messaging, target audience, and advertising channels."
+    },
+    {
+        "field": "Automotive",
+        "task_name": "Dealership Inventory Management",
+        "instruction": "Develop an inventory management system for a car dealership to track new and used car stock and manage sales."
+    },
+    {
+        "field": "Automotive",
+        "task_name": "Sustainability Strategy",
+        "instruction": "Suggest ways for an automotive company to make its manufacturing processes more sustainable, focusing on reducing emissions and waste."
+    },
+    {
+        "field": "Automotive",
+        "task_name": "Automotive Safety Standards Explanation",
+        "instruction": "Explain the key automotive safety standards and regulations that car manufacturers must comply with."
+    },
+    {
+        "field": "Automotive",
+        "task_name": "Electric Vehicle Adoption Strategy",
+        "instruction": "Create a strategy to encourage the adoption of electric vehicles in a specific market, including government incentives and consumer education."
+    },
+    {
+        "field": "Automotive",
+        "task_name": "Autonomous Driving Technology Analysis",
+        "instruction": "Analyze the current state of autonomous driving technology and predict its future impact on the automotive industry."
+    },
+    {
+        "field": "Automotive",
+        "task_name": "Car Insurance Comparison",
+        "instruction": "Compare car insurance policies based on coverage, premiums, and customer satisfaction for a new vehicle buyer."
+    },
+    {
+        "field": "Arts & Entertainment",
+        "task_name": "Film Script Writing",
+        "instruction": "Write a script for a short film, including dialogue, scene descriptions, and character development."
+    },
+    {
+        "field": "Arts & Entertainment",
+        "task_name": "Music Playlist Creation",
+        "instruction": "Create a playlist of 20 songs for a road trip, ensuring a balance of genres and upbeat tempos."
+    },
+    {
+        "field": "Arts & Entertainment",
+        "task_name": "Artwork Description",
+        "instruction": "Write a detailed description of a painting, highlighting its style, colors, and the emotions it evokes."
+    },
+    {
+        "field": "Arts & Entertainment",
+        "task_name": "Event Promotion Strategy",
+        "instruction": "Develop a promotion strategy for a live concert, including social media marketing, influencer partnerships, and ticket sales."
+    },
+    {
+        "field": "Arts & Entertainment",
+        "task_name": "Theater Production Schedule",
+        "instruction": "Create a production schedule for a theater play, outlining rehearsals, set building, and performance dates."
+    },
+    {
+        "field": "Arts & Entertainment",
+        "task_name": "Entertainment Industry Trends Analysis",
+        "instruction": "Analyze the latest trends in the entertainment industry, including streaming services, content creation, and audience preferences."
+    },
+    {
+        "field": "Arts & Entertainment",
+        "task_name": "Book Review Writing",
+        "instruction": "Write a review of a recent best-selling novel, summarizing the plot, characters, and providing an overall evaluation."
+    },
+    {
+        "field": "Arts & Entertainment",
+        "task_name": "Creative Writing Prompt Generation",
+        "instruction": "Generate 10 creative writing prompts for aspiring authors, focusing on different genres such as fantasy, mystery, and drama."
+    },
+    {
+        "field": "Arts & Entertainment",
+        "task_name": "Audience Engagement Strategy",
+        "instruction": "Develop a strategy to engage audiences for an online streaming platform, focusing on interactive content and user-generated videos."
+    },
+    {
+        "field": "Arts & Entertainment",
+        "task_name": "Video Game Soundtrack Creation",
+        "instruction": "Create a soundtrack for an action-adventure video game, providing mood-appropriate music for key scenes."
+    }
+]
